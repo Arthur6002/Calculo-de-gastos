@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\bin\Debug\CalculoDeGastos.exe.config
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\bin\Debug\CalculoDeGastos.exe
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\bin\Debug\CalculoDeGastos.pdb
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\obj\Debug\CalculoDeGastos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\obj\Debug\CalculoDeGastos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\obj\Debug\CalculoDeGastos.Form1.resources
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\obj\Debug\CalculoDeGastos.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\obj\Debug\CalculoDeGastos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\obj\Debug\CalculoDeGastos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\obj\Debug\CalculoDeGastos.exe
+C:\Users\Usuario\Documents\GitHub\Calculo-de-gastos\CalculoDeGastos\CalculoDeGastos\obj\Debug\CalculoDeGastos.pdb
